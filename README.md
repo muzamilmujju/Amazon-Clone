@@ -19,13 +19,14 @@ This project is a front-end clone of the Amazon homepage created using HTML and 
 
 ### 🔸 Shop Section
 
-![Shop Section](./screenshots/shop_section.png)
+![Shop Section](Screenshot%20(14).png)
+![Shop Section](Screenshot%20(15).png)
 
 ---
 
 ### 🔸 Footer Section
 
-![Footer](./screenshots/footer.png)
+![Footer](Screenshot%20(16).png)
 
 ---
 
