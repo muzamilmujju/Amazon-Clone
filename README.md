@@ -2,12 +2,6 @@
 
 This project is a front-end clone of the Amazon homepage created using HTML and CSS. It replicates the layout, design, and responsiveness of the original Amazon.com homepage as closely as possible using static web technologies.
 
-## 🌐 Live Demo
-
-[Click here to view the demo](#)  
-*(Add link if hosted on GitHub Pages, Netlify, Vercel, etc.)*
-
----
 
 ## 🖼️ Screenshots
 
@@ -45,8 +39,3 @@ This project is a front-end clone of the Amazon homepage created using HTML and 
 - **HTML5**
 - **CSS3**
 - **Font Awesome** (for icons)
-
----
-
-## 📁 Folder Structure
-
