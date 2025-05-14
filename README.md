@@ -13,7 +13,7 @@ This project is a front-end clone of the Amazon homepage created using HTML and 
 
 ### 🔸 Navbar & Hero Section
 
-![Navbar and Hero](./Screenshot(14).png)
+![Navbar and Hero](Screenshot(14).png)
 
 ---
 
